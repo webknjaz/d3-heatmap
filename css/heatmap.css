@@ -1,0 +1,11 @@
+.day, .heatmap-day {
+  fill: #fff;
+  stroke: #ccc;
+}
+
+.month, .heatmap-month {
+  /*fill: none;
+  stroke: #000;*/
+  stroke-width: 2px;
+  font-size: 14px;
+}
